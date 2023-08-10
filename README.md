@@ -4,7 +4,7 @@ Junior frontend developer.
 
 + 🌱 I’m currently working on [Lapkipomoshi](https://github.com/Lapkipomoshi)
 + 🔭 Completed the "Web Development" training course at Practicum by Yandex
-+ 👩‍🎓 Graduated Bauman Moscow State Technical University, specialty "Technospheric safety"
++ 👩‍🎓 Graduated Bauman Moscow State Technical University, specialty "Technosphere safety"
 
 
 ### Connect with me:

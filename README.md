@@ -1,10 +1,11 @@
 ## Hi 👋, I'm Vlada
 
-Junior frontend developer.
+Frontend developer.
 
-+ 🌱 I’m currently working on [Lapkipomoshi](https://github.com/Lapkipomoshi)
-+ 🔭 Completed the "Web Development" training course at Practicum by Yandex
-+ 👩‍🎓 Graduated Bauman Moscow State Technical University, specialty "Technosphere safety"
++ 🌱 I’m currently working as a frontend developer at the [Digital League](https://www.digitalleague.ru/).
++ 🤖 Participated in the development of the [Lapkipomoshi](https://github.com/Lapkipomoshi) project as a frontend developer.
++ 🔭 Completed the "Web Development" training course at Practicum by Yandex and I'm still learning web development and improving my knowledge.
++ 👩‍🎓 Graduated Bauman Moscow State Technical University, specialty "Technosphere safety".
 
 
 ### Connect with me:
@@ -18,8 +19,10 @@ Junior frontend developer.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
